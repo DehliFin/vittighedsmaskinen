@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qkj7bXv63R2qcxwKiJTfnfMnkFueqtbBTr4FOP+MiHoIMDX+8Z/OoEpiYbcBdXf2IwgMDyejreo5B7Ejt8yYhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dehli\\OneDrive\\programmering\\h3\\vittighedsmaskinen\\vittighedsmaskinen\\vittighedsmaskinen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dehli\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\dehli\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\dehli\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\dehli\\.nuget\\packages\\swashbuckle.aspnetcore\\6.0.7\\swashbuckle.aspnetcore.6.0.7.nupkg.sha512",
+    "C:\\Users\\dehli\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.7\\swashbuckle.aspnetcore.swagger.6.0.7.nupkg.sha512",
+    "C:\\Users\\dehli\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.0.7\\swashbuckle.aspnetcore.swaggergen.6.0.7.nupkg.sha512",
+    "C:\\Users\\dehli\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.0.7\\swashbuckle.aspnetcore.swaggerui.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
